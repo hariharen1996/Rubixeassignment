@@ -13,7 +13,7 @@ import {
 } from './StyledAbout'
 
 const AboutRoute = () => (
-  <AboutSection>
+  <AboutSection id="about-route">
     <AboutContainer>
       <AboutContent>
         <AboutHeading>who we are</AboutHeading>
@@ -32,7 +32,7 @@ const AboutRoute = () => (
       </AboutContent>
       <AboutImageContainer>
         <AboutImage
-          src="https://res.cloudinary.com/dhr74n4vu/image/upload/v1667899788/instashare-search_im9amq.png"
+          src="https://res.cloudinary.com/dhr74n4vu/image/upload/v1671681398/about_awhzc5.png"
           alt="rubixe-logo"
         />
       </AboutImageContainer>
